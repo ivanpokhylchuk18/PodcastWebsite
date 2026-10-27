@@ -1,0 +1,7 @@
+# Original client material includes a private purchase receipt.
+/images/
+.env
+.env.*
+!.env.example
+node_modules/
+*.log

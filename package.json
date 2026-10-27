@@ -1,0 +1,5 @@
+{
+  "name": "fivebbbbbtv-prototype",
+  "private": true,
+  "scripts": { "dev": "node server.mjs", "check": "node --check server.mjs && node --check public/app.js" }
+}
